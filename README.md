@@ -51,7 +51,7 @@ For the pruning_model_1, used 50% of neurons with zero weight and end with 80% s
 		</b>
 	</h3>
 	<p>
-		Created pruning_model_2, with similar structure except used an initial sparsity level of 30% and same final sparsity level of 80%. Hence start model with 30% of neurons with zero weights. Such a model gained a validation accuracy over 2 epochs of 98.4% and test accuracy of  98%. The final model size was 17,361 bytes, thus is was only 1% smaller in size. 
+		Created pruning_model_2, with similar structure except used an initial sparsity level of 30% and same final sparsity level of 80%. Hence start model with 30% of neurons with zero weights. Such a model gained a validation accuracy over 2 epochs of 98.4% and test accuracy of  98%. The final model size was 17,361 bytes, thus it was only 1% smaller in size. 
 	</p>
 </div>
 
